@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance appointing commissioners to survey the forests, honors, manors, lands, tenements and hereditaments, within the usual limits and perambulations of the same, heretofore belonging to the late King, Queen and Prince.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74566</idno><idno type="EEBO-CITATION">99869197</idno>
+  <idno type="VID">169245</idno>
+  <idno type="EEBO-PROQUEST">2240952360</idno>
+  
+            <idno type="STC">Thomason E1064_45</idno>
+            <idno type="PROQUEST">99869197</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99869197e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169245)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[45])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance appointing commissioners to survey the forests, honors, manors, lands, tenements and hereditaments, within the usual limits and perambulations of the same, heretofore belonging to the late King, Queen and Prince.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State. aut</author>
+               </titleStmt>
+               <extent>[2], 733-740, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William du-Gard and Henry Hills, printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf bears an order to print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Crown lands --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Surveying --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169245:1"/>
+            <p>AN ORDINANCE Appointing COMMISSIONERS To Survey the FORESTS, Honors, Manors, Lands, Tenements and Hereditaments, within the usual Limits and Perambulations of the same, Heretofore belonging to the late KING, QUEEN and PRINCE.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="Parliamentary_order">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Monday, August</hi> 21. 1654.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by his Highness the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Published.</p>
+                        <closer>
+                           <signed>
+                              <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Printers to His Highness the Lord Protector, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:169245:2"/>
+            <pb n="733" facs="tcp:169245:2"/>
+            <head>AN ORDINANCE Appointing Commissioners to Survey the FORESTS, Honors, Manors, Lands, Tenements and Hereditaments, within the usual Limits and Per<g ref="char:EOLhyphen"/>ambulations of the same, heretofore belong<g ref="char:EOLhyphen"/>ing to the late King, Queen and Prince.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Act of the late Parliament, Entituled, <hi>An Act for the Deafforrestation, sale and Improvement of the Forrests, and of the Ho<g ref="char:EOLhyphen"/>nors, Mannors, Lands, Tenements and Heredi<g ref="char:EOLhyphen"/>taments within the usu<g ref="char:EOLhyphen"/>al Limits and perambu<g ref="char:EOLhyphen"/>latiens of the same, here<g ref="char:EOLhyphen"/>tofore belonging to the late King, Queen and Prince,</hi>
+               <pb n="734" facs="tcp:169245:3"/>It was Enacted, That for the raising of a present supply of moneys, required for carry<g ref="char:EOLhyphen"/>ing on the affairs of the Common-wealth, the said Forrests, Honors, Mannors, Lands, Tenements and Hereditaments should be ex<g ref="char:EOLhyphen"/>posed to sale. And whereas the said Act of Parlament is now become in sundry respects impracticable especially for that the times for payment of the greatest part of the Moneys thereby allowed to be doubled are elapsed, and no moneys paid; by which means the services whereunto those moneys should have been applyed or disappointed of that supply, &amp; the persons who should have advanced cannot now advance the same. And whereas also it is necessary as well for prevention of Waste and Spoyl within the said Forests and Pre<g ref="char:EOLhyphen"/>misses as in Order to the future disposition of them, either by Sale or otherwise, that exact Surveys should be speedily taken of them, and of all the Timber and Woods whatsoe<g ref="char:EOLhyphen"/>ver in and upon them, &amp; of all other their pro<g ref="char:EOLhyphen"/>fits and appurtenances, to the end it may the better appear how the same may be disposed of and improved to the best advantage of the Common-wealth;</p>
+            <p>It is Ordained by his Highness the Lord Protector, by and with the advice and consent of His Council, That Commissioners shall be nominated and appointed by His Highness, and receive Commissions under the Great Seal of <hi>England,</hi> whereby such Commissioners shall be impowred to enter upon and survey al
+<pb n="735" facs="tcp:169245:3"/>the Forests within <hi>England</hi> and <hi>VVales,</hi> and all Honors, Manors, Lands, Tenements and Hereditaments within the same, heretofore belonging to the late King, Queen and Prince, or any of them (as the Perambulations of them are limited by an Act of Parliament, made in the Seventeenth year of the late King <hi>Charls</hi>) and to that end (if need be) to keep Courts of Survey in and upon the Premises, or any part thereof, and to consider how the same may be both for the present and the future best improved and disposed for the benefit and advantage of the Commonwealth; to enquire what quantity of Acres within the premises are the proper soil of, or do belong to the Com<g ref="char:EOLhyphen"/>monwealth, with the quality and goodness of the same, how the said Forests are sci<g ref="char:EOLhyphen"/>tuated, what Game of Deer is kept upon them, what Parks now belonging to the Com<g ref="char:EOLhyphen"/>monwealth are within them, what Officers belong to the premises or any of them, what is received and taken by the said Officers, and upon what grounds, and what hath accrew<g ref="char:EOLhyphen"/>ed, or of right ought to accrew to the Com<g ref="char:EOLhyphen"/>monwealth out of the said Forests; and also to enquire and finde out what part or parcels of the Ground or Soil of the said Forests and Premises are claimed or enjoyed by any per<g ref="char:EOLhyphen"/>sons, and by whom they are enjoyed; what quantities and numbers of Acres the same do contain; what Estate or Estates, either in possession or reversion, the persons so claim<g ref="char:EOLhyphen"/>ing or enjoying have therein; and what yearly Profits or Benefit they are known to make thereby.</p>
+            <pb n="726" facs="tcp:169245:4"/>
+            <p> And it is likewise Ordained. That the said Commissioners shall be impowred and authorized as aforesaid, to examine and finde out the quantity, quality and values of all Timber and Woods within the premises be<g ref="char:EOLhyphen"/>longing to the Commonwealth, how the same have been or ought to be fenced, what profit ought to be made yearly of them for the Commonwealth, or lawfully taken by others; what quantities of the said Timber or Wood are claimed or enjoyed by any others, and how far the same are subject to the liberty of the Forests; what number of Common<g ref="char:EOLhyphen"/>ers do challenge Commons, and the number of Cattle by Estimation yearly there to be Commoned; and also what Purprestures, Inclosures, late Erections or Incroach<g ref="char:EOLhyphen"/>ments have been had or made which may be questioned or disalowed, either in point of Soil, Common or otherwise; what are the name and number of Acres of every Fellet within the premises, whether the Fellets have been duly and well fenced, and if not, in whose default the same hath been; what loss or dammage hath accrewed to the Common<g ref="char:EOLhyphen"/>wealth for want of Fences, or by cutting down Timber or Woods, or by undue brow<g ref="char:EOLhyphen"/>sing or suffering Cattel in the Coppices, or otherwise by whom the same hath been <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to what value the detriment amounteth, <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> how satisfaction may be made for the same.</p>
+            <p>And it is further Ordained by the Autho<g ref="char:EOLhyphen"/>rity aforesaid, That the said Commissioners shall be authorized and impowred as afore<g ref="char:EOLhyphen"/>said,
+<pb n="727" facs="tcp:169245:4"/>to hear and determine the Claims of Right and Interests of all and every person and persons, Bodies Politique and Corporate, Parish and Hamlet, of, in and to the premi<g ref="char:EOLhyphen"/>ses, or any part or parcel of them, in such sort as by their respective Commissions, or such Instructions as shall be given them by His Highness and His Council, within three years next after the passing of this Ordinance shall be directed and appointed: And after such de<g ref="char:EOLhyphen"/>termination to allot and set forth such Propor<g ref="char:EOLhyphen"/>tions and Quantities of Land (parcel of the premises) as they shall judge to be competent and fit satisfaction for such Right or Inte<g ref="char:EOLhyphen"/>rest respectively: And also to apportion and set forth such quantity of Land as shall be ne<g ref="char:EOLhyphen"/>cessary for all High-ways to be had and made through the premises, in such place and places as they shall judge convenient for that pur<g ref="char:EOLhyphen"/>pose: And all cases where any Estate of In<g ref="char:EOLhyphen"/>heritance (being within the Limits and Bounds of any the said Forests) shall up<g ref="char:EOLhyphen"/>on the claiming and prosecution of the said Claim, be found to be the proper Soil of the person or persons claiming the same, The said Commissioners shall be authorized as aforesaid, to Treat, Compound and Agree with such person and persons, their Attorney or Attorneys for the De-afforestation of the said premises, at such rate or rates as the said Commissioners shall think fit for the Commonwealth to receive in consideration thereof.</p>
+            <pb n="738" facs="tcp:169245:5"/>
+            <p> Provided, That if any person or persons, Bodies Politique or Corporate, or the In<g ref="char:EOLhyphen"/>habitants of any Township or Village, shall neglect to make their said Claims by the space of Thirty days, to be accounted from such time as publique Summons shall be given by the said Commissioners, then and from thenceforth all and every such person and per<g ref="char:EOLhyphen"/>sons, Bodies Politique and Corporate, and Inhabitants, shall be for ever debarred from laying any claim, or receiving any priviledge or advantage thereby.</p>
+            <p>And it is further Ordained by the Au<g ref="char:EOLhyphen"/>thority aforesaid, That the said Commission<g ref="char:EOLhyphen"/>ers shall observe such Directions and In<g ref="char:EOLhyphen"/>structions concerning the Service, in and by this Ordinance appointed, as they shall from time to time receive from His High<g ref="char:EOLhyphen"/>ness and His Council; and shall with<g ref="char:EOLhyphen"/>in Ten days after the full execution of their respective Commsisions, or sooner, if they shall be thereunto required, certifie under their Hands and Seals, or the Hands and Seals of so many of them as are sufficient to execute the same; the Surveys by them taken, and other their proceedings touch<g ref="char:EOLhyphen"/>ing the premises, into the Court of Exche<g ref="char:EOLhyphen"/>quer, and a Duplicate thereof unto <hi>Edward Cresset, VVilliam VVebb, Josias Berners, John Parker, Henry Pitt, Robert Aldworth</hi> and <hi>Francis Mussenden,</hi>
+               <abbr>Esqs</abbr> or any four or more of them, nominated Trustees in the aforemen<g ref="char:EOLhyphen"/>tioned
+<pb n="739" facs="tcp:169245:5"/>Act of the late Parliament for De-afforestation of the Forests.</p>
+            <p>And it is further Ordained by the Au<g ref="char:EOLhyphen"/>thority aforesaid, That all and every person and persons, who shall be nomi<g ref="char:EOLhyphen"/>nated and appointed Commissioners in pursuance of this Ordinance, before he or they enter upon the execution of such Com<g ref="char:EOLhyphen"/>mission, shall before one or more Iustice or Iustices within the County where he or they shall usually reside, take the Oath following; <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>I <hi>A. B.</hi> do swear, That I will to my best skill and knowledge, faithfully dis<g ref="char:EOLhyphen"/>charge the Trust committed unto me in relation to an Ordinance of His High<g ref="char:EOLhyphen"/>ness the Lord Protector and His Council, Entituled, <hi>An Ordinance appointing Com<g ref="char:EOLhyphen"/>missioners to Survey the Forests, Honors, Manors, Lands, Tenements and Heredita<g ref="char:EOLhyphen"/>ments, with the usual Limits and Perambu<g ref="char:EOLhyphen"/>lations of the same, heretofore belonging to the late King, Queen and Prince;</hi> and that I will not for favor or affection, Reward or Gift, or hope of Reward or Gift break the same.</hi>
+            </p>
+            <pb n="740" facs="tcp:169245:6"/>
+            <p> Which Oath, such Iustice or Iustices are hereby impowred to administer.</p>
+            <p>And it is further Ordained by the Au<g ref="char:EOLhyphen"/>thority aforesaid, That the said Commis<g ref="char:EOLhyphen"/>sioners shall be authorized as aforesaid, in all cases, matters and things that shall be contained in their respective Commis<g ref="char:EOLhyphen"/>sions or Instructions to examine upon Oath or otherwise, which Oath they are hereby Authorized and Impowred to administer.</p>
+            <p>And it is further Ordained, That the Commissioners for the custody of the Great Seal of <hi>England,</hi> or the Keeper thereof for the time being, shall pass Commissi<g ref="char:EOLhyphen"/>ons under the said Great Seal, according to the intent of this Ordinance, to such per<g ref="char:EOLhyphen"/>son and persons as his Highness the Lord Protector, by Warrant under His Hand shall from time to time direct.</p>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <pb facs="tcp:169245:6"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Monday, August</hi> 21. 1654.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by His Highness the Lord Protector and his Council, That this Ordinance be forthwith Printed and Pub<g ref="char:EOLhyphen"/>lished.</p>
+            <closer>
+               <signed>
+                  <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
